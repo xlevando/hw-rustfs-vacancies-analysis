@@ -1,0 +1,22 @@
+# Данные
+*.csv
+*.tsv
+*.dat
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Промежуточные файлы MapReduce 
+mr_work/
+
+# Графики профилирования
+mprofile_*.png
+mprofile_*.dat
+
+# Системные файлы
+.DS_Store
+.vscode/
+.idea/
