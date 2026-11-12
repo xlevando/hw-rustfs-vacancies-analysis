@@ -1,6 +1,5 @@
 # Данные
 *.csv
-*.tsv
 *.dat
 
 # Python
@@ -20,3 +19,6 @@ mprofile_*.dat
 .DS_Store
 .vscode/
 .idea/
+
+zookeeper/mr_work_coord/
+data/zoo*/

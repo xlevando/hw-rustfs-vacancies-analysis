@@ -1,0 +1,6 @@
+=== zoo1 ===
+Mode: follower
+=== zoo2 ===
+Mode: follower
+=== zoo3 ===
+Mode: leader
