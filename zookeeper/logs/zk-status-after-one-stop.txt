@@ -1,0 +1,4 @@
+ zoo1 
+Mode: follower
+ zoo3 
+Mode: leader

@@ -1,0 +1,4 @@
+[zk: localhost:2181(CONNECTED) 0] [zk: localhost:2181(CONNECTED) 1] [ephemeral_test, zookeeper]
+2026-11-06 15:06:11,081 [myid:] - INFO  [main:o.a.z.ZooKeeper@1230] - Session: 0x10000cc91a50000 closed
+[zk: localhost:2181(CONNECTED) 0] [zookeeper]
+2026-11-06 15:06:50,352 [myid:] - INFO  [main:o.a.z.ZooKeeper@1230] - Session: 0x10000cc91a50001 closed

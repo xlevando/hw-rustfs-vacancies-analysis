@@ -1,0 +1,2 @@
+[zk: localhost:2181(CONNECTED) 0] {"pairs_total": 72027, "triples_total": 235663, "keys": 133533, "by": "B"}
+dataVersion = 0
